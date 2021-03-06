@@ -1,0 +1,14 @@
+# dipper-user 8.1.0 OPM1.171019.011 V9.5.5.0.OEAMIFA release-keys
+- manufacturer: 
+- platform: sdm845
+- codename: dipper
+- flavor: yaap_dipper-userdebug
+- release: 11
+- id: RQ1D.210205.004
+- incremental: 445e7a7a8c
+- tags: test-keys
+- fingerprint: Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: dipper-user-8.1.0-OPM1.171019.011-V9.5.5.0.OEAMIFA-release-keys
+- repo: xiaomi_dipper_dump
